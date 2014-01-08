@@ -1,4 +1,4 @@
 mytest
 ======
 
-Try it out.
+Hello World! 
